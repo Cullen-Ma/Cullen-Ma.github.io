@@ -14,7 +14,7 @@ redirect_from:
 *   **M.S. in Medical Imaging AI**, Institute of Medical Technology, Peking University, Beijing, China
     *   *GPA:* 3.83
     *   *Research Focus:* Medical Imaging Artificial Intelligence
-    *   *2023 - Present* (Estimated based on context, adjust if needed)
+    *   *2023 - Present* 
 
 *   **B.E. in Information Engineering**, School of Telecommunications Engineering, Xidian University, Xi'an, China
     *   *Ranking:* **2/142**
