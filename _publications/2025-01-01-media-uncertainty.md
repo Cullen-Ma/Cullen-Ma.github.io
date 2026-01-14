@@ -6,7 +6,7 @@ excerpt: "本文提出了一种基于残差排列和聚类的动态PET成像不�
 date: 2025-01-01
 venue: "Medical Image Analysis (Under Revision)"
 paperurl: "" 
-citation: "Your Name, et al. (2025). 'Enhancing Uncertainty Assessment in Dynamic PET Imaging with Residual Permutation and Clustering.' <i>Medical Image Analysis</i>. (Under Revision)."
+citation: "Kun Ma, et al. (2025). 'Enhancing Uncertainty Assessment in Dynamic PET Imaging with Residual Permutation and Clustering.' <i>Medical Image Analysis</i>. (Under Revision)."
 ---
 
 **摘要：**
