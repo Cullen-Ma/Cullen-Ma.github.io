@@ -6,7 +6,7 @@ excerpt: "<strong>【Oral Presentation, Highlight】</strong> 本研究被国际
 date: 2024-06-08
 venue: "SNMMI 2024 (Annual Meeting)"
 paperurl: ""
-citation: "Your Name, et al. (2024). 'Advancing Uncertainty Evaluation in Dynamic PET Imaging Through Residual Permutation and Clustering Techniques.' <i>SNMMI 2024</i>."
+citation: "Kun Ma, et al. (2024). 'Advancing Uncertainty Evaluation in Dynamic PET Imaging Through Residual Permutation and Clustering Techniques.' <i>SNMMI 2024</i>."
 ---
 
 **荣誉：**
