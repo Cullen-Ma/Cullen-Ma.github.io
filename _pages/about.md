@@ -24,7 +24,6 @@ I am dedicated to developing robust and explainable AI algorithms to assist clin
 ### 🔥 News
 
 *   **[Jan 2025]** My paper on *Multimodal Fusion Network* is under review at *The Innovation Medicine*.
-*   **[Jan 2025]** My paper on *Uncertainty Assessment in Dynamic PET* is under major revision at *Medical Image Analysis*.
 *   **[Jun 2024]** I gave an **Oral Presentation** at **SNMMI 2024**! Our work was selected as a **Highlight**.
 *   **[2024]** One paper accepted by **IEEE NSS MIC RTSD 2024**.
 
@@ -32,14 +31,9 @@ I am dedicated to developing robust and explainable AI algorithms to assist clin
 
 ### 📝 Selected Publications
 
-*(For a full list, please refer to my [Publications](/publications/) page)*
-
-1.  **Advancing Uncertainty Evaluation in Dynamic PET Imaging Through Residual Permutation and Clustering Techniques**  
-    **Kun Ma**, et al.  
-    *SNMMI 2024 (Oral, Highlight)*
-2.  **Beyond Bootstrap: Enhancing Uncertainty Assessments of Metabolic Parameters through Gaussian Focused**  
-    **Kun Ma**, et al.  
-    *IEEE NSS MIC RTSD 2024*
+{% for post in site.publications limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ---
 
